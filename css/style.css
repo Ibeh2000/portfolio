@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    background: rgb(236, 235, 230);
+    background: linear-gradient(to right,rgb(149, 220, 238),rgb(107, 241, 84));
+}
+.navbar{
+    margin-bottom: 69px;
+    color:rgb(36, 29, 29);
+}
+.navbar-brand{
+    font-size: 60px;
+    margin-bottom: 85px;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 0px;
+    padding-bottom: 80px;
+}
+.collapse{
+    text-transform: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 60px;
+}
+.port{
+    margin-left: 109px;
+    margin-bottom: 400px;
+    text-transform: none;
+    text-decoration: none;
+    padding: 30px;
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.solomon{
+    text-align: center;
+    width: 850px;
+    background-color: rgb(26, 21, 22);
+    height: 1350px;
+    padding: 40px;
+    color: darkgrey;
+    margin: 0 auto;
+    margin-top: 100px;
+    box-shadow: 0px 0px 43px 17px rgb(63, 53, 53);
+    border-radius: 18px;
+    padding-left: 20px;
+
+}
+.picture{
+    border-radius:50%;
+    border-style: solid;
+    border-width: 3px;
+    background-color: cornsilk;
+    padding-left: 20px;
+    margin-right: 60px;
+    margin-bottom: 50px;
+}
+.picture-sol{
+    height: 300px;
+    border-radius: 50%;
+    padding-right: 30px;
+}
+.title{
+    font-size: 30px;
+    font-weight: 700;
+    margin: 50px;
+}
